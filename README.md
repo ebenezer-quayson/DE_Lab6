@@ -1,4 +1,3 @@
-```markdown
 # Power BI Dashboard for Tracking Student Progress and Performance
 
 ## Overview
@@ -71,7 +70,7 @@ Provides granular details of individual learner progress for trainers and progra
    - Define relationships between attendance, participation, labs, quizzes, and learner status tables.
 
 ---
+
 ## Submission Details
 - **Due Date**: Monday, 9th December 2024 revised to Tuesday, 10th December 2024.
 - **Purpose**: Provide a comprehensive dashboard to track and visualize learner progress and outcomes.
-```
