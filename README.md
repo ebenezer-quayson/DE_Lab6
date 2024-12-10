@@ -71,14 +71,6 @@ Provides granular details of individual learner progress for trainers and progra
    - Define relationships between attendance, participation, labs, quizzes, and learner status tables.
 
 ---
-
-## Additional Notes
-- Ensure slicers are implemented to provide interactivity and flexibility in exploring data.
-- Background design images (`Dashboard.png` and `Overview.png`) are included for visual enhancement.
-- Creativity in designing the layout and visuals is encouraged.
-
----
-
 ## Submission Details
 - **Due Date**: Monday, 9th December 2024 revised to Tuesday, 10th December 2024.
 - **Purpose**: Provide a comprehensive dashboard to track and visualize learner progress and outcomes.
